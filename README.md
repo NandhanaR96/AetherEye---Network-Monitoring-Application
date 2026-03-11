@@ -1,6 +1,6 @@
 # AetherEye – Network Monitoring Application
 
-AetherEye is a lightweight **Python-based network monitoring tool** that captures and analyzes real-time network traffic.
+AetherEye is a lightweight **Python-based network monitoring application** that captures and analyzes real-time network traffic.
 The project demonstrates basic **packet sniffing, protocol analysis, and traffic visualization** using Python libraries such as **Scapy** and **Matplotlib**.
 
 ---
